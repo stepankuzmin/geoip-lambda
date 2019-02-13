@@ -1,0 +1,9 @@
+{
+  "name": "geoip-lambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mmdb-reader": "^1.2.0"
+  }
+}

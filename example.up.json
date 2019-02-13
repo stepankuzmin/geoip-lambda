@@ -1,0 +1,8 @@
+{
+  "name": "geoip",
+  "profile": "default",
+  "regions": ["eu-west-2"],
+  "cors": {
+    "enable": true
+  }
+}
